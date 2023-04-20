@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEyh8oYUKANRfOpq5fZEGjkbXoK0gueB6UAFfJqCFnVb3ocXLPTrP3AtuSNXYlhEj5cOZSh2w+BddGTbirl4QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\DP Projeto\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

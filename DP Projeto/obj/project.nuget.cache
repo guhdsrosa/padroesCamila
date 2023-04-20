@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqV3LcSVoFMmNpBffJlQ8IdQbriwVU8RYsvByho+6o+YVi5pl5y8QjbLqXPtP8Pxe+fc/XHlFs3/euGtlvBunA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\DP Projeto\\DP Projeto\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
